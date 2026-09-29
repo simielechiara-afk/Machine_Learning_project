@@ -4,8 +4,7 @@
 ## Problem Overview & Objective
 This project addresses a multi-stage machine learning challenge using the **UCI Online Shoppers Purchasing Intention** dataset. The primary objective was to predict whether an online session results in a purchase (`Revenue` classification), while resolving synthetic data corruption in a key continuous feature (`Exit Rate`).
 
-📌 **[View Full Jupyter Notebook with code, analysis, and visualizations](./Machine_Learning_Homework.ipynb)**
-
+📌 **[View Full Jupyter Notebook with code, analysis, and visualizations](./MLProject_SimieleChiara.ipynb)**
 ## Methodology Steps
 1. **Data Imputation via Regression:**
    - Handled missing/corrupted values in the `Exit Rate` variable by training robust regression models (comparing algorithms via cross-validation and feature selection).
